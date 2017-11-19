@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend finder web application, matching based on user's interest in certain activities",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erfaanism/FriendFinder.git"
+  },
+  "author": "Ali Darvishi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Erfaanism/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/Erfaanism/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
