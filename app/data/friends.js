@@ -1,3 +1,1 @@
-var users = [];
-
-module.exports = users;
+[{ "name": "Kyle Broflovski", "photo": "https://vignette3.wikia.nocookie.net/southpark/images/9/95/Kyle-broflovski.png/revision/latest?cb=20170725131924", "scores": ["3", "4", "3", "5", "2", "5", "2", "1", "3", "5"] }, { "name": "Stan Marsh", "photo": "https://vignette.wikia.nocookie.net/southpark/images/c/c6/Stan-marsh-0.png/revision/latest?cb=20170721155858", "scores": ["4", "3", "3", "4", "4", "2", "4", "5", "3", "2"] }, { "name": "Kenny McCormick", "photo": "https://vignette.wikia.nocookie.net/southpark/images/6/6f/KennyMcCormick.png/revision/latest?cb=20160409020502", "scores": ["4", "4", "5", "4", "5", "5", "3", "4", "4", "4"] }, { "name": "Eric Cartman", "photo": "https://vignette.wikia.nocookie.net/southpark/images/c/c4/Eric-cartman.png/revision/latest?cb=20171121092247", "scores": ["2", "2", "3", "3", "3", "1", "1", "3", "4", "3"] }]
